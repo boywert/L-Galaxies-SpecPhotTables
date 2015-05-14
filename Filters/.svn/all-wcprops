@@ -1,0 +1,395 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cosmo-group/!svn/ver/11369/Galformod/L-Galaxies/Util/Read_Filters/filters
+END
+c_johnson_K.dat
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cosmo-group/!svn/ver/11369/Galformod/L-Galaxies/Util/Read_Filters/filters/c_johnson_K.dat
+END
+all_filters.dat
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cosmo-group/!svn/ver/11604/Galformod/L-Galaxies/Util/Read_Filters/filters/all_filters.dat
+END
+myi4_band.dat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cosmo-group/!svn/ver/11369/Galformod/L-Galaxies/Util/Read_Filters/filters/myi4_band.dat
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cosmo-group/!svn/ver/11369/Galformod/L-Galaxies/Util/Read_Filters/filters/Makefile
+END
+c_johnson_U.dat
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cosmo-group/!svn/ver/11369/Galformod/L-Galaxies/Util/Read_Filters/filters/c_johnson_U.dat
+END
+c_johnson_V.dat
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cosmo-group/!svn/ver/11369/Galformod/L-Galaxies/Util/Read_Filters/filters/c_johnson_V.dat
+END
+johnson_filters.dat
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/cosmo-group/!svn/ver/11369/Galformod/L-Galaxies/Util/Read_Filters/filters/johnson_filters.dat
+END
+GALEX_FUV.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cosmo-group/!svn/ver/11604/Galformod/L-Galaxies/Util/Read_Filters/filters/GALEX_FUV.txt
+END
+i3_band.dat
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cosmo-group/!svn/ver/11369/Galformod/L-Galaxies/Util/Read_Filters/filters/i3_band.dat
+END
+GALEX_NUV.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cosmo-group/!svn/ver/11604/Galformod/L-Galaxies/Util/Read_Filters/filters/GALEX_NUV.txt
+END
+WFC3_IR_F160W.txt
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cosmo-group/!svn/ver/11604/Galformod/L-Galaxies/Util/Read_Filters/filters/WFC3_IR_F160W.txt
+END
+g_band_trans.dat
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cosmo-group/!svn/ver/11604/Galformod/L-Galaxies/Util/Read_Filters/filters/g_band_trans.dat
+END
+WFPC2_F450W.txt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cosmo-group/!svn/ver/11604/Galformod/L-Galaxies/Util/Read_Filters/filters/WFPC2_F450W.txt
+END
+c_johnson_Ks.dat
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cosmo-group/!svn/ver/11369/Galformod/L-Galaxies/Util/Read_Filters/filters/c_johnson_Ks.dat
+END
+vista_johnson_H.dat
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/cosmo-group/!svn/ver/11604/Galformod/L-Galaxies/Util/Read_Filters/filters/vista_johnson_H.dat
+END
+myi1_band.dat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cosmo-group/!svn/ver/11369/Galformod/L-Galaxies/Util/Read_Filters/filters/myi1_band.dat
+END
+vista_johnson_J.dat
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/cosmo-group/!svn/ver/11604/Galformod/L-Galaxies/Util/Read_Filters/filters/vista_johnson_J.dat
+END
+ACS_WFC_F814W.txt
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cosmo-group/!svn/ver/11604/Galformod/L-Galaxies/Util/Read_Filters/filters/ACS_WFC_F814W.txt
+END
+z_band_trans.dat
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cosmo-group/!svn/ver/11604/Galformod/L-Galaxies/Util/Read_Filters/filters/z_band_trans.dat
+END
+c_johnson_filters.dat
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/cosmo-group/!svn/ver/11369/Galformod/L-Galaxies/Util/Read_Filters/filters/c_johnson_filters.dat
+END
+i3_band2.dat
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cosmo-group/!svn/ver/11369/Galformod/L-Galaxies/Util/Read_Filters/filters/i3_band2.dat
+END
+i4_band.dat
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cosmo-group/!svn/ver/11369/Galformod/L-Galaxies/Util/Read_Filters/filters/i4_band.dat
+END
+WFC3_IR_F105W.txt
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cosmo-group/!svn/ver/11604/Galformod/L-Galaxies/Util/Read_Filters/filters/WFC3_IR_F105W.txt
+END
+c_johnson_filters2.dat
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cosmo-group/!svn/ver/11369/Galformod/L-Galaxies/Util/Read_Filters/filters/c_johnson_filters2.dat
+END
+r_band_trans.dat
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cosmo-group/!svn/ver/11604/Galformod/L-Galaxies/Util/Read_Filters/filters/r_band_trans.dat
+END
+WFC3_IR_F125W.txt
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cosmo-group/!svn/ver/11604/Galformod/L-Galaxies/Util/Read_Filters/filters/WFC3_IR_F125W.txt
+END
+WFC3_UVIS_F336W.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/cosmo-group/!svn/ver/11604/Galformod/L-Galaxies/Util/Read_Filters/filters/WFC3_UVIS_F336W.txt
+END
+VIMOS_U.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cosmo-group/!svn/ver/11604/Galformod/L-Galaxies/Util/Read_Filters/filters/VIMOS_U.txt
+END
+vista_johnson_Y.dat
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/cosmo-group/!svn/ver/11604/Galformod/L-Galaxies/Util/Read_Filters/filters/vista_johnson_Y.dat
+END
+vista_johnson_Z.dat
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/cosmo-group/!svn/ver/11604/Galformod/L-Galaxies/Util/Read_Filters/filters/vista_johnson_Z.dat
+END
+vista_johnson_Ks.dat
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cosmo-group/!svn/ver/11604/Galformod/L-Galaxies/Util/Read_Filters/filters/vista_johnson_Ks.dat
+END
+WFC3_UVIS_F275W.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/cosmo-group/!svn/ver/11604/Galformod/L-Galaxies/Util/Read_Filters/filters/WFC3_UVIS_F275W.txt
+END
+NIC_F160W.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cosmo-group/!svn/ver/11604/Galformod/L-Galaxies/Util/Read_Filters/filters/NIC_F160W.txt
+END
+myi2_band.dat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cosmo-group/!svn/ver/11369/Galformod/L-Galaxies/Util/Read_Filters/filters/myi2_band.dat
+END
+ACS_WFC_F625W.txt
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cosmo-group/!svn/ver/11604/Galformod/L-Galaxies/Util/Read_Filters/filters/ACS_WFC_F625W.txt
+END
+ACS_WFC_F435W.txt
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cosmo-group/!svn/ver/11604/Galformod/L-Galaxies/Util/Read_Filters/filters/ACS_WFC_F435W.txt
+END
+u_band_trans.dat
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cosmo-group/!svn/ver/11604/Galformod/L-Galaxies/Util/Read_Filters/filters/u_band_trans.dat
+END
+johnson_B.dat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cosmo-group/!svn/ver/11369/Galformod/L-Galaxies/Util/Read_Filters/filters/johnson_B.dat
+END
+ACS_WFC_F475W.txt
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cosmo-group/!svn/ver/11604/Galformod/L-Galaxies/Util/Read_Filters/filters/ACS_WFC_F475W.txt
+END
+i1_band.dat
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cosmo-group/!svn/ver/11369/Galformod/L-Galaxies/Util/Read_Filters/filters/i1_band.dat
+END
+f850.dat
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cosmo-group/!svn/ver/11369/Galformod/L-Galaxies/Util/Read_Filters/filters/f850.dat
+END
+sdss_filters.dat
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cosmo-group/!svn/ver/11369/Galformod/L-Galaxies/Util/Read_Filters/filters/sdss_filters.dat
+END
+c_johnson_Ic.dat
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cosmo-group/!svn/ver/11369/Galformod/L-Galaxies/Util/Read_Filters/filters/c_johnson_Ic.dat
+END
+johnson_H.dat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cosmo-group/!svn/ver/11369/Galformod/L-Galaxies/Util/Read_Filters/filters/johnson_H.dat
+END
+johnson_I.dat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cosmo-group/!svn/ver/11369/Galformod/L-Galaxies/Util/Read_Filters/filters/johnson_I.dat
+END
+johnson_J.dat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cosmo-group/!svn/ver/11369/Galformod/L-Galaxies/Util/Read_Filters/filters/johnson_J.dat
+END
+johnson_K.dat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cosmo-group/!svn/ver/11369/Galformod/L-Galaxies/Util/Read_Filters/filters/johnson_K.dat
+END
+i_band_trans.dat
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cosmo-group/!svn/ver/11604/Galformod/L-Galaxies/Util/Read_Filters/filters/i_band_trans.dat
+END
+johnson_R.dat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cosmo-group/!svn/ver/11369/Galformod/L-Galaxies/Util/Read_Filters/filters/johnson_R.dat
+END
+c_johnson_irac_filters.dat
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cosmo-group/!svn/ver/11369/Galformod/L-Galaxies/Util/Read_Filters/filters/c_johnson_irac_filters.dat
+END
+johnson_U.dat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cosmo-group/!svn/ver/11369/Galformod/L-Galaxies/Util/Read_Filters/filters/johnson_U.dat
+END
+johnson_V.dat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cosmo-group/!svn/ver/11369/Galformod/L-Galaxies/Util/Read_Filters/filters/johnson_V.dat
+END
+myi3_band.dat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cosmo-group/!svn/ver/11369/Galformod/L-Galaxies/Util/Read_Filters/filters/myi3_band.dat
+END
+ACS_WFC_F606W.txt
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cosmo-group/!svn/ver/11604/Galformod/L-Galaxies/Util/Read_Filters/filters/ACS_WFC_F606W.txt
+END
+ACS_WFC_F850LP.txt
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cosmo-group/!svn/ver/11604/Galformod/L-Galaxies/Util/Read_Filters/filters/ACS_WFC_F850LP.txt
+END
+c_johnson_Rc.dat
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cosmo-group/!svn/ver/11369/Galformod/L-Galaxies/Util/Read_Filters/filters/c_johnson_Rc.dat
+END
+ACS_WFC_F775W.txt
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cosmo-group/!svn/ver/11604/Galformod/L-Galaxies/Util/Read_Filters/filters/ACS_WFC_F775W.txt
+END
+i2_band.dat
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cosmo-group/!svn/ver/11369/Galformod/L-Galaxies/Util/Read_Filters/filters/i2_band.dat
+END
+WFC3_UVIS_F225W.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/cosmo-group/!svn/ver/11604/Galformod/L-Galaxies/Util/Read_Filters/filters/WFC3_UVIS_F225W.txt
+END
+c_johnson_B.dat
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cosmo-group/!svn/ver/11369/Galformod/L-Galaxies/Util/Read_Filters/filters/c_johnson_B.dat
+END
+NIC_F110W.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cosmo-group/!svn/ver/11604/Galformod/L-Galaxies/Util/Read_Filters/filters/NIC_F110W.txt
+END
+c_johnson_H.dat
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cosmo-group/!svn/ver/11369/Galformod/L-Galaxies/Util/Read_Filters/filters/c_johnson_H.dat
+END
+WFPC2_F300W.txt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cosmo-group/!svn/ver/11604/Galformod/L-Galaxies/Util/Read_Filters/filters/WFPC2_F300W.txt
+END
+sdss_irac_filters.dat
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/cosmo-group/!svn/ver/11369/Galformod/L-Galaxies/Util/Read_Filters/filters/sdss_irac_filters.dat
+END
+c_johnson_J.dat
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cosmo-group/!svn/ver/11369/Galformod/L-Galaxies/Util/Read_Filters/filters/c_johnson_J.dat
+END
